@@ -30,7 +30,7 @@ To limit the current through each segment of the display we need 7 dropper resis
 
 ![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/bd.png)
 ![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/pcb.png)
-![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/cf and volts.png)
+![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/cf%20and%20volts.png)
 
 The 74C926 counter chip is capable of driving 4 digits. Refer to the block diagram for the sections contained within the chip. The input frequency appears at the "clock" pin, number 12, and passes through 4 divide-by-ten counters. At each stage it emerges to be fed into a 4-bit latch. The outputs pass to a Binary-Coded-Decimal to 7 segment decoder and driver, where it feeds the display via dropper resistors. The multiplexing network generates a set of synchronising pulses, one set feeding each of the 4 latches, the other set feeding A,B,C,Douts. The chip contains its own internal oscillator to drive the multiplex which in turn sets the scan rate for the display. This internal oscillator cannot be adjusted which is a pity really, it would be nice to lower the scan to a point where each of the 4 digits can be viewed turning on and off sequentially so the whole operation of the display could be understood. We will be arranging an alternative to the "AND" display, should supplies become difficult to obtain. Don't forget you can make your own 7 segment display and have no supply problems.  
 
