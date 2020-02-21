@@ -2,6 +2,8 @@
 
 A counter is a very handy piece of equipment. It can be used as test equipment, for display, or for experimentation. Our versatile counter module is especially useful. Many variations and adaptions can be engineered around it, as it is a basic building block. It can be used to count from one cycle per hour to nearly 3MHz. To cater for frequencies higher than 3MHz, additional dividing networks can be included at the front end. This would extend the frequency 100 times or more.  
 
+https://easyeda.com/editor#id=4ca8c114ce5d4840b4bbddc5e2041a07|220caf8c84af4379b00096b862300c44
+
 ![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/cm-cct.png)
 ![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/pic.png)
 ![](https://github.com/SteveJustin1963/TE-2-4--Counter-Module/blob/master/pinout.png)
