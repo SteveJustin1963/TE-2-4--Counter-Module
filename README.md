@@ -10,7 +10,7 @@ Our project will accept 6 different sensors; light, sound, magnetic, unit, oscil
 
 ## PARTS LIST:
 * IC1- 74C926
-* Display - AND 4145
+* Display - AND-4145
 * Resistors: 1/4 watt
 * 7 - 100R
 * 7 - 18OR
