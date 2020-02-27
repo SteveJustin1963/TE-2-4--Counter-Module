@@ -1,4 +1,4 @@
-# TE-2-4--Counter-Module
+# TE-2-4-Counter-Module
 
 A counter is a very handy piece of equipment. It can be used as test equipment, for display, or for experimentation. Our versatile counter module is especially useful. Many variations and adaptions can be engineered around it, as it is a basic building block. It can be used to count from one cycle per hour to nearly 3MHz. To cater for frequencies higher than 3MHz, additional dividing networks can be included at the front end. This would extend the frequency 100 times or more.  
 
